@@ -12,3 +12,5 @@ Este é um projeto de uma Landing Page profissional que desenvolvi utilizando HT
 - HTML
 - CSS
 - JavaScript
+
+# EM BREVE NO AR!
