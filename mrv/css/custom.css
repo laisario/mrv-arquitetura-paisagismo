@@ -1,0 +1,45 @@
+.whatsapp-button {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  background-color: #25d366; 
+  color: #fff;
+  padding: 10px 15px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.whatsapp-button:hover {
+  background-color: #128C7E;
+}
+
+.whatsapp-button img {
+  width: 30px; 
+  margin-right: 10px;
+}
+
+.whatsapp-button span {
+  font-weight: bold;
+}
+
+.instagram-link {
+  display: flex;
+  justify-content: space-around;
+  font-weight: 900;
+  align-items: center;
+  text-decoration: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+  color: #000; /* Cor do texto */
+  transition: color 0.3s ease;
+}
+
+.instagram-link:hover {
+  color: #bc2a8d; /* Cor do texto ao passar o mouse */
+}
+
+.instagram-link img {
+  width: 20px; /* Ajuste o tamanho da imagem conforme necessário */
+  margin-right: 10px;
+}
